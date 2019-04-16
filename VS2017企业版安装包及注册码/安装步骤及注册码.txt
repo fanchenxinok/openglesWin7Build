@@ -1,0 +1,2 @@
+安装步骤参考： https://blogs.msdn.microsoft.com/vcblog/2017/04/21/getting-started-with-visual-studio-for-c-and-cpp-development/
+注册码： NJVYC-BMHX2-G77MM-4XJMR-6Q8QF

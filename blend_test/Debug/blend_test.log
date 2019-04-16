@@ -1,0 +1,14 @@
+﻿  blend_test.c
+d:\vs_learn\blend_test\blend_test\blend_test.c(20): warning C4091: 'typedef ': ignored on left of '<unnamed-enum-LAYER_ID_0>' when no variable is declared
+d:\vs_learn\blend_test\blend_test\blend_test.c(128): warning C4018: '<': signed/unsigned mismatch
+d:\vs_learn\blend_test\blend_test\blend_test.c(231): warning C4018: '>': signed/unsigned mismatch
+d:\vs_learn\blend_test\blend_test\blend_test.c(232): warning C4018: '>': signed/unsigned mismatch
+d:\vs_learn\blend_test\blend_test\blend_test.c(255): warning C4018: '>': signed/unsigned mismatch
+d:\vs_learn\blend_test\blend_test\blend_test.c(256): warning C4018: '>': signed/unsigned mismatch
+d:\vs_learn\blend_test\blend_test\blend_test.c(276): warning C4018: '>': signed/unsigned mismatch
+d:\vs_learn\blend_test\blend_test\blend_test.c(277): warning C4018: '>': signed/unsigned mismatch
+d:\vs_learn\blend_test\blend_test\blend_test.c(424): warning C4018: '<': signed/unsigned mismatch
+d:\vs_learn\blend_test\blend_test\blend_test.c(475): warning C4018: '>': signed/unsigned mismatch
+d:\vs_learn\blend_test\blend_test\blend_test.c(559): warning C4018: '<': signed/unsigned mismatch
+d:\vs_learn\blend_test\blend_test\blend_test.c(598): warning C4018: '<': signed/unsigned mismatch
+  blend_test.vcxproj -> D:\vs_learn\blend_test\Debug\blend_test.exe
